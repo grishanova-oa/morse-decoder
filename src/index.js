@@ -63,6 +63,7 @@ function decode(expr) {
         res += MORSE_TABLE[symbol];
     }
 
+    
     return res;
 }
 
